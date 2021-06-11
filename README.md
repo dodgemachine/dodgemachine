@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Eren @dodgemachine
-- 👀 I’m interested in games, websites, mobile applications and mobile games
+- 👀 I’m interested in blockchain, websites, mobile applications and
 - 🌱 I’m currently learning c# and website development
-- 💞️ I’m looking to collaborate on mobile games and web development
+- 💞️ I’m looking to collaborate on blockchain and web development
 - 📫 How to reach me erenozturk116@gmail.com
 
 <!---
